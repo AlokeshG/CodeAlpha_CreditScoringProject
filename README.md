@@ -14,3 +14,7 @@ Flask Backend
 Frontend Form
    ↓
 Prediction Result
+
+Here is the output-
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/68c85f4a-c892-4252-a4f5-99ff090c335e" />
+
